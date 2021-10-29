@@ -1,0 +1,24 @@
+{
+  "files": {
+    "coche.java": [
+      {
+        "id": "f31aff9b-c2b4-43f9-b041-09f2e2056384",
+        "line": 2,
+        "version": 480,
+        "index": 14
+      },
+      {
+        "id": "67379473-ba7e-4ac9-8404-e9e315c91b3c",
+        "line": 9,
+        "version": 480,
+        "index": 137
+      },
+      {
+        "id": "c9719012-5479-430c-8fc7-c77c63639ed8",
+        "line": 21,
+        "version": 480,
+        "index": 451
+      }
+    ]
+  }
+}
